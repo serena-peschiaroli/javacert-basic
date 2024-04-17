@@ -8,7 +8,7 @@
 The length() method is present in which of the following package in Java?
 The are 1 correct answers
 
-[x]java.lang
+- [x] java.lang
 java.net
 java.awt
 java.math
@@ -21,9 +21,9 @@ The are 3 correct answers
 
 assert
 volatile
-[x]getch
-[x]extend
-[x]id
+- [x] getch
+- [x] extend
+- [x] id
 catch
 ______________________________________________________________________
 
@@ -34,7 +34,7 @@ The are 1 correct answers
 
 It is used to store the data locally
 It makes a field mandatory
-[x]It is used to avoid serialization
+- [x] It is used to avoid serialization
 It makes a field constant
 It is used to allow serialization
 It is used to send a packet
@@ -46,7 +46,7 @@ How many types of packages are present in Java?
 The are 1 correct answers
 
 1
-[x]2
+- [x] 2
 3
 5
 4
@@ -60,7 +60,7 @@ The are 1 correct answers
 
 array
 TRUE
-[x]this
+- [x] this
 exception
 string
 _____________________________________________________________________________
@@ -72,7 +72,7 @@ The are 1 correct answers
 4
 2
 1
-[x]8
+- [x] 8
 6
 Zero
 _________________________________________________________________________
@@ -93,7 +93,7 @@ System.out.println("Goodbye /* Farewell + name") ;
 A compilation error occurs at line 5
 A compilation error occurs at line 3
 The code compiles without errors
-[x]A compilation error occurs at line 7
+- [x] A compilation error occurs at line 7
 _________________________________________________________________________
 
 
@@ -103,7 +103,7 @@ Do we manually have to import the java.lang package?
 The are 1 correct answers
 
 TRUE
-[x]FALSE
+- [x] FALSE
 __________________________________________________________________________
 
 # 9.
@@ -112,7 +112,7 @@ What package in Java is imported by default?
 The are 1 correct answers
 
 java.util
-[x]java.lang
+- [x] java.lang
 java.time
 java.io
 java.net
@@ -129,7 +129,7 @@ java.awt
 java.util
 java.net
 java.io
-[x]java.lang
+- [x] java.lang
 ______________________________________________________________________________
 
 # 11
@@ -143,7 +143,7 @@ Which statements are correct regarding the autoboxing and unboxing concept of wr
 The are 1 correct answers
 
 None of the given statements are correct
-[x]Both 1 and 2
+- [x] Both 1 and 2
 Only 1
 Only 2
 There is nothing like unboxing in wrapper class
@@ -162,8 +162,8 @@ Which packages are automatically imported into this source file by the compiler?
 
 The are 2 correct answers
 
-[x]java.lang
-[x]The package with no name
+- [x] java.lang
+- [x] The package with no name
 java.awt
 java.*
 System
@@ -181,7 +181,7 @@ java.net
 java.util
 java.time
 java.math
-[x]java.lang
+- [x] java.lang
 ____________________________________________________________________________
 
 # 14.
@@ -191,7 +191,7 @@ The are 1 correct answers
 
 java.io
 java.math
-[x]java.util
+- [x] java.util
 java.lang
 _________________________________________________________________________
 
@@ -201,7 +201,7 @@ What does import java.io.* mean?
 The are 1 correct answers
 
 Only the io class is imported
-[x]All classes in the io package are imported
+- [x] All classes in the io package are imported
 All classes whose names start with io are imported
 All classes in the io package and the subpackages of io packages, if any, are imported
 ____________________________________________________________________________
@@ -212,7 +212,7 @@ The math class is present in which of the following package?
 The are 1 correct answers
 
 java.net
-[x]java.lang
+- [x] java.lang
 java.io
 java.system
 java.math
@@ -226,7 +226,7 @@ Which method identifier is correct according to Java naming conventions?
 The are 1 correct answers
 
 BillCalculator
-[x]calculateBill
+- [x] calculateBill
 calculatebill
 Calculator
 __________________________________________________________________________
@@ -237,7 +237,7 @@ __________________________________________________________________________
 Does Java allow keywords to be used as a variable name?
 The are 1 correct answers
 
-[x]No
+- [x] No
 Yes
 ____________________________________________________________________
 
@@ -258,7 +258,7 @@ and comment text 6 */
 
 }
 
-[x]line 5
+- [x] line 5
 line 2
 line 3
 line 7
@@ -272,10 +272,10 @@ Which of the following is a valid code comment in Java?
 The are 3 correct answers
 
 /** Need this */ in next method **/
-[x]/****** Find the abyss */
-[x]// Is this a bug?
+- [x] /****** Find the abyss */
+- [x] // Is this a bug?
 $ Begin method ? doSomething() $
-[x]/* ** TODO: Call grandma ***/
+- [x] /* ** TODO: Call grandma ***/
 #. Updated code by Anonymous
 _____________________________________________________________________
 
@@ -286,7 +286,7 @@ The are 1 correct answers
 Byte
 Character
 Double
- [x]boolean
+ - [x] boolean
 Float
 Short
 ___________________________________________________________________
@@ -296,9 +296,9 @@ Which are valid declarations? (Choose all that apply)
 
 The are 3 correct answers
 
-[x]int _123;
-[x]int central_sales_region_Summer_2005_gross_sales;
-[x]int $x;
+- [x] int _123;
+- [x] int central_sales_region_Summer_2005_gross_sales;
+- [x] int $x;
 int #dim;
 int %percent;
 int *divide;
