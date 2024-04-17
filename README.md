@@ -34,9 +34,9 @@ The are 1 correct answers
 
 It is used to store the data locally
 It makes a field mandatory
-It is used to avoid serialization
+[x]It is used to avoid serialization
 It makes a field constant
-[x]It is used to allow serialization
+It is used to allow serialization
 It is used to send a packet
 ___________________________________________________________________________
 
@@ -304,4 +304,4 @@ int %percent;
 int *divide;
 __________________________________________________________________________
 
-Score 90%
+Score 95%
